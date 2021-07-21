@@ -1,0 +1,14 @@
+menu ul{
+display: flex;
+list-style: none;
+margin: 0;
+padding: 0;
+
+}
+
+menu ul li a{
+    /* display: block; */
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px; 
+}
